@@ -1,0 +1,23 @@
+
+public class Test_taro {
+		 public String taro =null;
+		 public int age =18;
+
+
+
+		 public void talk(){
+			 System.out.println(this.taro+"が話す");
+		 }
+		 public void walk(){
+			 System.out.println(this.taro+"が歩く");
+		 }
+		 public void run(){
+			 System.out.println(this.taro+"が走る");
+		 }
+
+		}
+
+
+
+
+

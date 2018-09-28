@@ -1,0 +1,21 @@
+
+public class Test_taro {
+ public static void main(String[]args){
+	 Person taro =new Person();
+	 taro.name="山田太郎";
+	 taro.age=20;
+
+
+	System.out.println(this.taro.talk);
+
+	System.out.println(this.taro.walk);
+
+	System.out.println(this.taro.run);
+}
+
+}
+
+
+
+
+

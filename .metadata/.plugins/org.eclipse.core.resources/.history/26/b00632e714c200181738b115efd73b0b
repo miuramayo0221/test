@@ -1,0 +1,12 @@
+public class Capsule {
+	public String getName(){
+		return this.;
+	}
+		public void setName(String name){
+		this. = name;
+
+		}
+}
+
+
+

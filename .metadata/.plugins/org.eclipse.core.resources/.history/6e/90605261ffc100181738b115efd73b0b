@@ -1,0 +1,24 @@
+
+public class Test_taro {
+	 public static void main(String[]args){
+		 Person2 taro =new Person2();
+		 taro.name="山田太郎";
+
+
+
+		 public void talk(){
+			 System.out.println(this.taro+"が話す");
+		 }
+		 public void walk(){
+			 System.out.println(this.taro+"が歩く");
+		 }
+		 public void run(){
+			 System.out.println(this.taro+"が走る");
+		 }
+
+		}
+
+
+
+
+

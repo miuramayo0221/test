@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;Mp3Player&apos; を &apos;SmartPhone&apos; に名前変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;実装&apos;&#x0D;&#x0A;- オリジナル要素: &apos;Mp3Player&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;SmartPhone&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新&#x0D;&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;Mp3Player&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Mp3Player.java[Mp3Player" matchStrategy="1" name="SmartPhone" qualified="false" references="true" similarDeclarations="false" stamp="1538034298116" textual="false" version="1.0"/>
+</session>

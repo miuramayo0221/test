@@ -1,0 +1,9 @@
+INDEX VERSION 1.127+C:\Users\internousdev\Desktop\workspace\workspace-miura\test\.metadata\.plugins\org.eclipse.jdt.core
+3204423896.index
+203701628.index
+3992161375.index
+3112527212.index
+13977338.index
+650957494.index
+466975023.index
+1339514383.index
