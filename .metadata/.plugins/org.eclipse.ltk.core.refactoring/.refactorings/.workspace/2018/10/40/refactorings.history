@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース &apos;TestB_sql&apos; を削除" deleteContents="true" description="リソース &apos;TestB_sql&apos; を削除" element1="/TestB_sql" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1538358051983"/>
+</session>
